@@ -1,6 +1,7 @@
 # mongoDBCrushCourse
 Crush Course code on how to create models and schemas with mogoDB and mongoose
-[Link To Two Hour Video]()
+[Link To Two Hour Video](https://drive.google.com/open?id=1cZQfxhG_vdKJ4KKhRNMoaDWLhVv6wAQr)
+[Link To Two Hour Video Transcripts](https://drive.google.com/open?id=1Bh5Xxxk8OYGj0KZnBw5Jne9TwRI3Iddm)
 
 [Mongodb Terminology](https://www.w3adda.com/mongodb-tutorial/mongodb-terminology)
 
