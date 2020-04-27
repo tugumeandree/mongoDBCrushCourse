@@ -1,0 +1,23 @@
+{
+  "name": "mongodbcrushcourse",
+  "version": "1.0.0",
+  "description": "Crush Course code on how to create models and schemas with mogoDB and mongoose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tugumeandree/mongoDBCrushCourse.git"
+  },
+  "author": "Andrew Tugume",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tugumeandree/mongoDBCrushCourse/issues"
+  },
+  "homepage": "https://github.com/tugumeandree/mongoDBCrushCourse#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.9.10"
+  }
+}
