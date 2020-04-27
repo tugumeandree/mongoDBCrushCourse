@@ -1,12 +1,24 @@
 # mongoDBCrushCourse
 Crush Course code on how to create models and schemas with mogoDB and mongoose
+[Link To Two Hour Video]()
 
-[I'm an inline-style link](https://www.google.com)
+[Mongodb Terminology](https://www.w3adda.com/mongodb-tutorial/mongodb-terminology)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Mongodb Cheatsheet](https://gist.github.com/bradtraversy/f407d642bdc3b31681bc7e56d95485b6)
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+[Mongoose Documentation](https://mongoosejs.com/ "Mongoosejs.com")
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[Mongodb Nodejs driver Documentation](https://docs.mongodb.com/drivers/node/)
 
-[You can use numbers for reference-style link definitions][1]
+[Mongodb Atlas](https://docs.atlas.mongodb.com/getting-started/)
+
+[Mongodb Community Server Download Windows](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
+
+[Mongodb Community Server Download Linux](https://docs.mongodb.com/manual/administration/install-on-linux/)
+
+[Mongodb Community Server Download Mac](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
+
+[Mongodb Compass](https://www.mongodb.com/download-center/compass)
+
+
+
